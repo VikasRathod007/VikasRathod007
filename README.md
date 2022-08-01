@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VikasRathod007
+- 👋 Hi, I’m @VikasRathod
 - 👀 I’m interested in coding
 - 📫 you can reach me at vikeyrathod007@gmail.com
 
