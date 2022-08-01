@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VikasRathod007
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning android development
 - 📫 you can reach me at vikeyrathod007@gmail.com
 
 <!---
