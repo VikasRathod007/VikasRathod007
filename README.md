@@ -1,6 +1,6 @@
 - 👋 Hi, I’m VikasRathod
 - 👀 I’m interested in programming
-- 🏫 currently studying in bsc 2nd year
+- 🏫 currently studying in bsc 3rd year
 - 📫 How to reach me vikeyrathod007@gmail.com
 
 <!---
